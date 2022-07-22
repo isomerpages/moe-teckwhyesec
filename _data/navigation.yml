@@ -58,7 +58,7 @@ links:
         url: /Student-Development-Programmes/Aesthetics-in-TWSS/permalink
       - title: CCAs
         url: /Student-Development-Programmes/CCAs/permalink
-  - title: Resources for Students
+  - title: For Students
     url: /Resources-for-Students/Class-Timetable/permalink
     sublinks:
       - title: Class Timetable
@@ -71,7 +71,7 @@ links:
         url: /Resources-for-Students/ECG/permalink
       - title: Submenu Title
         url: /Resources-for-Students/Student-Support/permalink
-  - title: Resources for Parents
+  - title: For Parents
     url: /Resources-for-parents/Supporting-your-child/permalink
     sublinks:
       - title: Supporting Child's Learning
