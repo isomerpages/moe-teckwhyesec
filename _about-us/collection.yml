@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Latest Happenings/Together Our Singapore Spirit.md
       - Latest Happenings/Making A Difference, One Seed At A Time.md
       - Latest Happenings/Entrepreneurs in the Making.md
       - Latest Happenings/Celebrating Our Teachers.md
