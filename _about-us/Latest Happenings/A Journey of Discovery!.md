@@ -50,3 +50,18 @@ They learnt to be aware of themselves and the people around them, manage themsel
 
 <img src="/images/j8.jpg" style="width:75%">
 <p style="text-align: center;"><b><em>Working together to create the final product</em></b></p>
+
+<p style="text-align: center;"><b>Secondary 3 Camp Explore</b></p>
+<img src="/images/j9.png" style="width:75%">
+<img src="/images/j10.png" style="width:75%">
+<img src="/images/j11.png" style="width:75%">
+
+<p style="text-align: center;"><b>Secondary 4/5 Camp Step-Up</b></p>
+<img src="/images/j12.png" style="width:75%">
+<img src="/images/j13.png" style="width:75%">
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rxRsYYjlAgo" title="Interview Skills Workshop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="text-align: center;"><b>Interview Skills Workshop</b></p>
+
+<img src="/images/j4.jpg" style="width:75%">
+<p style="text-align: center;"><b><em>Having fun playing sports with my Form Teacher!</em></b></p>
