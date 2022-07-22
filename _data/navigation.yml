@@ -1,13 +1,23 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    url: /about-us/principals-message/permalink
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message/permalink
+      - title: Vision Mission Values & Motto
+        url: /About-us/Vision-Mission-Values-and-Motto/permalink
+      - title: School Crest
+        url: /About-us/School-Crest/permalink
+      - title: School Song
+        url: /About-us/School-Song/permalink
+      - title: "School History "
+        url: /About-us/School-History/permalink
+      - title: Direct School Admissions (DSA)
+        url: /About-Us/Direct-School-Admissions/permalink
+      - title: Accolades & Achievements
+        url: /About-Us/Accolades-and-Achievements/permalink
+      - title: Latest Happenings
+        url: /About-Us/Latest-Happenings/permalink
+      - title: Yearbook
+        url: /About-Us/Yearbook/permalink
