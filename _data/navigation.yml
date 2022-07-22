@@ -23,4 +23,14 @@ links:
         url: /About-Us/Yearbook/permalink
   - title: Our People
     url: /Our-People/School-Advisory-Committee/permalink
-    sublinks: []
+    sublinks:
+      - title: Our People
+        url: /Our-People/School-Advisory-Committee/permalink
+      - title: School Advisory Committee
+        url: /Our-People/School-Advisory-Committee/permalink
+      - title: School Management Committee
+        url: /Our-People/School-Management-Committee/permalink
+      - title: Executive & Admin Staff
+        url: /Our-People/Executive-and-Admin-Staff/permalink
+      - title: Staff Achievements
+        url: /Our-People/Staff-Achievements/permalink
