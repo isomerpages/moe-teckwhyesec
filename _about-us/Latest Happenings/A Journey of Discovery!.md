@@ -63,5 +63,15 @@ They learnt to be aware of themselves and the people around them, manage themsel
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rxRsYYjlAgo" title="Interview Skills Workshop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p style="text-align: center;"><b>Interview Skills Workshop</b></p>
 
-<img src="/images/j4.jpg" style="width:75%">
+<img src="/images/j14.jpg" style="width:75%">
+<p style="text-align: center;"><b><em>Having fun playing sports with my Form Teacher!</em></b></p>
+
+<iframe width="410" height="231" src="https://www.youtube.com/embed/GzHKNy6kdYw" title="Sports with FTs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="410" height="231" src="https://www.youtube.com/embed/wtBlAeHp9VI" title="Sports with FTs2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+
+<img src="/images/j15.png" style="width:75%">
 <p style="text-align: center;"><b><em>Having fun playing sports with my Form Teacher!</em></b></p>
