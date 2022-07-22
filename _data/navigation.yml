@@ -58,3 +58,16 @@ links:
         url: /Student-Development-Programmes/Aesthetics-in-TWSS/permalink
       - title: CCAs
         url: /Student-Development-Programmes/CCAs/permalink
+  - title: Resources for Students
+    url: /Resources-for-Students/Class-Timetable/permalink
+    sublinks:
+      - title: Class Timetable
+        url: /Resources-for-Students/Class-Timetable/permalink
+      - title: Assessments & Exam Schedules
+        url: /Resources-for-students/assessments-and-exam-schedules/permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
