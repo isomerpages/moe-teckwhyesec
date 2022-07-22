@@ -45,3 +45,16 @@ links:
         url: /Teaching-and-Learning/Self-Directed-Learners/permalink
       - title: Problem Solvers
         url: /Teaching-and-learning/problem-solvers/permalink
+  - title: Student Development Programmes
+    url: /Student-Development-Programmes/DSA/permalink
+    sublinks:
+      - title: Direct School Admissions (DSA)
+        url: /Student-Development-Programmes/DSA/permalink
+      - title: Respectful & Resilient Youths
+        url: /Student-Development-Programmes/Respectful-and-Resilient-Youths/permalink
+      - title: Global Citizens
+        url: /Student-Development-Programmes/Global-Citizens/permalink
+      - title: Aesthetics in TWSS
+        url: /Student-Development-Programmes/Aesthetics-in-TWSS/permalink
+      - title: CCAs
+        url: /Student-Development-Programmes/CCAs/permalink
