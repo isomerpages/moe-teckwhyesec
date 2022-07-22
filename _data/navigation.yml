@@ -34,3 +34,14 @@ links:
         url: /Our-People/Form-Teachers/permalink
       - title: Staff Achievements
         url: /Our-People/Staff-Achievements/permalink
+  - title: Teaching & Learning
+    url: /Teaching-and-Learning/School-Assessment-Policy/permalink
+    sublinks:
+      - title: School Assessment Policy
+        url: /Teaching-and-Learning/School-Assessment-Policy/permalink
+      - title: Applied Learning Programme -UD
+        url: /Teaching-and-Learning/Applied-Learning-Programme-UD/permalink
+      - title: Self-Directed Learners
+        url: /Teaching-and-Learning/Self-Directed-Learners/permalink
+      - title: Problem Solvers
+        url: /Teaching-and-learning/problem-solvers/permalink
