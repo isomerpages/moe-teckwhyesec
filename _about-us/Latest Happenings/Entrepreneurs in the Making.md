@@ -16,3 +16,6 @@ Their first foray into entrepreneurship was a success -they sold most of their s
 
 <img src="/images/e1.png" style="width:75%">
 <p style="text-align: center;"><em><b>3G’s little minimart debut in the school canteen</b></em></p>
+
+<img src="/images/e2.jpg" style="width:75%">
+<p style="text-align: center;"><em><b>Business was brisk – Sales were made within the first few minutes of opening!</b></em></p>
