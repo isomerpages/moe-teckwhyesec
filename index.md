@@ -18,13 +18,7 @@ sections:
         - title: Why TeckWhye?
           description: A short video on life in TWSS
           url: https://www.youtube.com/watch?v=ilI-nAh5dCM
-        - title: Key Highlight Title
-          description: Key Highlight description
+        - title: CNA Documentary
+          description: Catch us on CNA!
           url: ""
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
