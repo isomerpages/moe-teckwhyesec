@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Yearbook/Yearbook 2020.md
       - Yearbook/Yearbook 2021.md
       - Yearbook/.keep
