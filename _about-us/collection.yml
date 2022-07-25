@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - "Latest Happenings/Steering Your Success: Joven Goh (Class of 2018).md"
       - "Latest Happenings/Science Applied Programme: Cool Building Project.md"
       - "Latest Happenings/Science Applied Learning Programme: Design & Research
         Space for Urban Farming.md"
