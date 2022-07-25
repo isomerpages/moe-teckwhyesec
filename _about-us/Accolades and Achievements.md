@@ -44,3 +44,35 @@ National School Games (Taekwondo)**
 | **Compound ‘C’ Division Boys – Individual** | **GOLD**<br>Zavier Teo Zhi Xiong (2B) |
 | **Compound ‘C’ Division Girls – Individual** | **GOLD**<br>Nur Azalea Bte Zahazad (2E)<br>**SILVER**<br>Shermaine Toh Xin Ying (2B)<br>**BRONZE**<br>Low En Qi Eunice (2D) |
 | **Compound ‘C’ Division Girls – Team** | **GOLD**<br>Nur Azalea Bte Zahazad (2E)<br>Shermaine Toh Xin Ying (2B)<br>Low En Qi Eunice (2D) |
+
+**National School Games (Wushu)**
+
+|  |  |
+|---|---|
+| **‘B’ Division Boys’ Quanshu<br>‘B’ Division Boys’ International Nandao<br>‘B’ Division Boys’ International Nanquan<br>‘B’ Division Boys’ Boys’ Short Weapon** | **FIRST**<br>**FIRST**<br>**SECOND**<br>**THIRD**<br>Sim Zhi Hong Darren (4E) |
+
+
+**Uniformed Groups**
+
+|  |  |
+|---|---|
+| **Best Unit Competition [Gold]** | National Cadet Corps |
+| **Unit Overall Proficiency Award [Gold]** | National Police Cadet Corps |
+| **Puan Noor Aishah Award [Gold]** | Girl Guides |
+
+**Performing Arts** <br>**Singapore Youth Festival 2021**
+
+|  |  |
+|---|---|
+| **Certification of Distinction** | International Dance [Team 1] |
+| **Certificate of Accomplishment** | International Dance [Team 2] |
+| **Certificate of Accomplishment** | Guitar Ensemble |
+| **Certificate of Accomplishment** | Chinese Dance |
+
+**Academic**<br>
+**All Singapore Secondary Mathematics Competition (ASMC) for Normal Course Students**
+
+|  |  |
+|---|---|
+| **Individual Category for Normal Technical Mathematics** | **1st Place**<br>Nabila Binte Shamsuddin (2E) |
+| **Team Category for Normal Technical Mathematics** | **1st Place**<br>Nabila Binte Shamsuddin (2E)<br>Aung Kaung Htet (2E)<br>Valencio Goh Yong Ping (2E) |
