@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Latest Happenings/Science Applied Learning Programme.md
       - Latest Happenings/Collaborative Learning in Teck Whye.md
       - Latest Happenings/CNA Documentary.md
       - Latest Happenings/A Journey of Discovery!.md
