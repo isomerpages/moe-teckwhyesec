@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Latest Happenings/Mother Tongue Language Fortnight.md
       - Latest Happenings/Steering Your Success.md
       - "Latest Happenings/Science Applied Programme: Cool Building Project.md"
       - "Latest Happenings/Science Applied Learning Programme: Design & Research
