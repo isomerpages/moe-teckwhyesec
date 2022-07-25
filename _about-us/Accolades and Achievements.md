@@ -76,3 +76,21 @@ National School Games (Taekwondo)**
 |---|---|
 | **Individual Category for Normal Technical Mathematics** | **1st Place**<br>Nabila Binte Shamsuddin (2E) |
 | **Team Category for Normal Technical Mathematics** | **1st Place**<br>Nabila Binte Shamsuddin (2E)<br>Aung Kaung Htet (2E)<br>Valencio Goh Yong Ping (2E) |
+
+**Historical Scene Investigation Challenge 2021**
+
+|  |  |
+|---|---|
+| **Silver Award** | Noor Na’ila Yasamin (1A)<br>Ong Kai An Sam (1D)<br>Chan Li Ying (2A)<br>Chia Kai Wen (2B) |
+
+**The Schools Challenge: Sustainability & Community**
+
+|  |  |
+|---|---|
+| **The Best Pitch Award** | Ari Syukri Bin Hardi (2C)<br>Gomes Leon (2C)<br>Cham Si Qin Charlene (2D)<br>Tara D/O Ahmad Ibrahim (2D) |
+
+**The Singapore Youth Science Fair**
+
+|  |  |
+|---|---|
+| **Certificate of Accomplishment** | Awfiyah Fatini Binte Yazid (2B)<br>Chua Min You (2B)<br>Chia Kai Wen (2B)<br>Nurul Nadhira Binte Muhammad Fizul (2B)<br>Tamara Seah Xinling (2B) |
