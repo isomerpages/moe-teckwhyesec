@@ -72,6 +72,6 @@ They learnt to be aware of themselves and the people around them, manage themsel
 
 <br>
 
+<p style="text-align: center;"><b><em>Sports with our Form Teachers!</em></b></p>
 
 <img src="/images/j15.png" style="width:75%">
-<p style="text-align: center;"><b><em>Having fun playing sports with my Form Teacher!</em></b></p>
