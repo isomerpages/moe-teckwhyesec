@@ -3,6 +3,9 @@ title: School Song
 permalink: /about-us/School-Song/permalink
 description: ""
 ---
+School Song
+===========
+
 Now in our days of joyous youth  
 We Will strive in earnest search  
 For wondrous gleams of truth and light
