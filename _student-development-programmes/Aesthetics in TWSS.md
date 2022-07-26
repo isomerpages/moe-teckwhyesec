@@ -86,3 +86,32 @@ In our _JusTWSSdance_ programme, students are taught to dance progressively th
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6kQO1TTiwrY" title="Sec 1 Dance: Intro to Dance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p style="text-align: center;"><em><b>Sec 1 Dance: Intro to Dance</b></em></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZBwA2e3tj9I" title="Sec 2 Dance Programme: Jive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p style="text-align: center;"><em><b>Sec 2 Dance Programme Jive</b></em></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lc1ekN75OV4" title="3G Dance: Just Got Paid" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p style="text-align: center;"><em><b>3G Dance: Just Got Paid</b></em></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PqvfXY-DxLI" title="4E2 Dance: In the End" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p style="text-align: center;"><em><b>4E2 Dance: In the End</b></em></p>
+
+
+**ArtSynergy**
+
+In addition, we have our bi-annual ARTSynergy concert which is a community arts concert put together by our performing arts groups, allowing them to showcase their talent and previous year’s SYF performance. The concert also includes segments performed by our alumni, allowing them to remain connected to the school.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B6qC-1dlfTE" title="ARTSynergy 2018 Full Concert" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p style="text-align: center;"><em><b>ArtSynergy 2018</b></em></p>
+
+**PLAY Programme**
+
+Lastly, we have our PLAY programme which is a programme to bring students to local and international performances at our local theatres. At Lower Secondary, every student will be sent for at least one performance. At Upper Secondary, students can sign up for theatre performances that they are interested in. Below are some performances that we have attended in the past.
+
+<img src="/images/a2.png" style="width:75%">
