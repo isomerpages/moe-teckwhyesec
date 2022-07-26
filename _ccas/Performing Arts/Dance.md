@@ -124,6 +124,4 @@ Teck Whye Dance is where dancers learn, grow and excel as one troupe building pe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j2Mgk2ssEZs" title="Dance TWSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-
+<p style="text-align: center;"><em><b>Weekly Training Sessions</b></em></p>
