@@ -2,5 +2,6 @@ collections:
   student-development-programmes:
     output: true
     order:
+      - Global Citizens/.keep
       - Aesthetics in TWSS.md
       - CCAs.md
