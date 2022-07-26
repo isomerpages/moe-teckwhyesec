@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Sports and Games/Netball (Girls).md
       - Sports and Games/Taekwondo.md
       - Sports and Games/Wushu.md
       - Sports and Games/.keep
