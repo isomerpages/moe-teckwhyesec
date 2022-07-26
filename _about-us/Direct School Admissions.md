@@ -55,5 +55,9 @@ OR
 * Passion in Sustainable Development
 	- Aptitude in Science
 	- Participation, Representation & Achievements in Sustainability - Projects/Programmes
-		
-		
+
+
+2. Applicants should also possess the positive character traits and good conduct in school.
+3.  Meeting all the criteria does not guarantee the student will be          shortlisted/given an offer.
+
+
