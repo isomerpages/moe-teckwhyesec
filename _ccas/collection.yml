@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Uniformed Groups/.keep
       - Performing Arts/Concert Band.md
       - Performing Arts/Dance.md
       - Performing Arts/Drama Club.md
