@@ -4,6 +4,9 @@ permalink: /about-us/Latest-Happenings/Chinese-New-Year-Celebrations-and-Total-D
 description: ""
 third_nav_title: Latest Happenings
 ---
+Chinese New Year Celebrations & Total Defence Commemoration
+===========================================================
+
 In conjunction with the Chinese New Year celebration this year, the school commemorated Total Defence Day. As Total Defence Day falls on the 4th day of Lunar New Year, the backdrop of the fall of Singapore in 1942 and the current Covid-19 pandemic reminded students that we must never take our peace for granted and everyone plays a part in upholding the six pillars of Total Defence so as to protect Singapore.
 
 To start off the commemoration, the students discussed possible actions they would take if they were involved in the past crises that Singapore experienced – The fall of Singapore in World War II, the Asian Financial Crisis and the SARS pandemic. Through the discussion, students learnt that our predecessors overcame the challenges faced during the past crises because they were united as a nation.
