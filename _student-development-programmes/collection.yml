@@ -2,6 +2,7 @@ collections:
   student-development-programmes:
     output: true
     order:
+      - Respectful & Resilient Youths/.keep
       - Direct School Admissions (DSA).md
       - Global Citizens/Overseas Learning Experience.md
       - Global Citizens/Values in Action.md
