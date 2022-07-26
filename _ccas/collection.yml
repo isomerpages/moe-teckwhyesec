@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Sports and Games/Badminton.md
       - Sports and Games/Basketball (Boys).md
       - Sports and Games/Football (Boys).md
       - Sports and Games/Hockey & Floorball (Girls), Hockey (Boys).md
