@@ -2,7 +2,6 @@ collections:
   teaching-and-learning:
     output: true
     order:
-      - Schools Challenge Project.md
       - C&C Problem Solvers/Historical Scene Investigation.md
       - C&C Problem Solvers/IGNITE Skills Challenge.md
       - C&C Problem Solvers/Cool Building Project.md
