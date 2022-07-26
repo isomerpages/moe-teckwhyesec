@@ -3,6 +3,9 @@ title: School History
 permalink: /about-us/School-History/permalink
 description: ""
 ---
+School History
+==============
+
 **Our Initial Years (1966 – 1979)**
 
 <img src="/images/IMG-2138.jpg" style="width:100%">
