@@ -4,6 +4,10 @@ permalink: /about-us/Latest-Happenings/Mother-Tongue-Language-Fortnight/permalin
 description: ""
 third_nav_title: Latest Happenings
 ---
+
+
+Mother Tongue Language Fortnight
+================================
 The annual Mother Tongue Language (MTL) Fortnight, held over the fourth and fifth week of the first term, comprised of a series of interesting activities that promote the appreciation of Mother Tongue Languages and cultures. Over the two weeks, students from Secondary One to Five took part in a variety of activities which included activities from the Chinese, Malay and Indian culture.  
   
 Through these hands-on activities, students worked together to co-create songs and compose poetry and made beautiful artefacts like painted masks and fans. Through these activities, they were better able to appreciate their own culture as they learnt about the significance of these practices. Following the conclusion of the MTL Fortnight, the students shared their artefacts and knowledge with their friends from other cultures, helping them to deepen their knowledge and appreciation about another culture.
