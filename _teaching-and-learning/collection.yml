@@ -2,6 +2,7 @@ collections:
   teaching-and-learning:
     output: true
     order:
+      - Self Directed Learners/Orchid Hybridisation Programme (Biology).md
       - Self Directed Learners/.keep
       - C&C Problem Solvers/Schools Challenge Project.md
       - C&C Problem Solvers/Historical Scene Investigation.md
