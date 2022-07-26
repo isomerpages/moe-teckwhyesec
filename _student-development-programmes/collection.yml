@@ -2,6 +2,7 @@ collections:
   student-development-programmes:
     output: true
     order:
+      - Respectful & Resilient Youths/A Journey of Discovery.md
       - Respectful & Resilient Youths/Student Leadership Development.md
       - Respectful & Resilient Youths/.keep
       - Direct School Admissions (DSA).md
