@@ -28,16 +28,32 @@ We would like to invite students with an interest or aptitude in the talent area
 
 ### **Eligibility Criteria**
 
-1.  Selection for admission to the school via DSA-Secondary is based on the following: <br>
-    a.  **Hockey**
-	* CCA Involvement – Participation, Representation & Achievements 
-        *   Physical Fitness – Latest NAPFA Test Results <br>
-    b.  **Modern Dance**
-        *   CCA Involvement – Participation, Representation & Achievements
-        *   Or relevant experience or qualification in Dance.<br>
-    c.  **Community Youth Leadership**
-        *   Students must have assumed leadership role in the primary school in either CCA, Class or Committees.
-        *   Active participation in a school or community project or work.<br>
-    d.  **Science, Technology, Engineering, Maths**  
-        ******Robotics for Sustainable Development******
-				
+1. Selection for admission to the school via DSA-Secondary is based on the following:
+
+a.  **Hockey**
+* CCA Involvement – Participation, Representation & Achievements
+* Physical Fitness – Latest NAPFA Test Results<br>
+
+b.  **Modern Dance**
+*  CCA Involvement – Participation, Representation & Achievements
+*  Or relevant experience or qualification in Dance.<br>
+
+c.  **Community Youth Leadership**
+* Students must have assumed leadership role in the primary school in either CCA, Class or Committees.
+* Active participation in a school or community project or work.<br>
+
+d.  **Science, Technology, Engineering, Maths**  
+    ******Robotics for Sustainable Development******<br>
+* Passion in Robotics
+	- Aptitude in Science and Mathematics
+	- Experience in Robotics/Electronics/Programming (e.g. CCA records, certificates from any training organisations or institutions, relevant portfolio)
+	- Achievements in relevant competitions
+	- Related to Robotics/Electronics/Programming, if any
+
+OR 
+
+* Passion in Sustainable Development
+	- Aptitude in Science
+	- Participation, Representation & Achievements in Sustainability - Projects/Programmes
+		
+		
