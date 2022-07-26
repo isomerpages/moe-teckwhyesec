@@ -2,6 +2,7 @@ collections:
   teaching-and-learning:
     output: true
     order:
+      - School Assessment Policy.md
       - Applied Learning Programme  UD/Applied Learning Programme – Urban
         Design.md
       - "Applied Learning Programme  UD/Science Applied Learning Programme:
