@@ -2,5 +2,6 @@ collections:
   teaching-and-learning:
     output: true
     order:
+      - Farm to Table.md
       - C&C Problem Solvers/The History Times.md
       - C&C Problem Solvers/.keep
