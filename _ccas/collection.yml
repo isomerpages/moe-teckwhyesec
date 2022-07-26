@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Performing Arts/Dance.md
       - Performing Arts/Drama Club.md
       - Performing Arts/Guitar Ensemble.md
       - Performing Arts/.keep
