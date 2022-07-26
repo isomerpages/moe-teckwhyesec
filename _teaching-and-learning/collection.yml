@@ -2,6 +2,7 @@ collections:
   teaching-and-learning:
     output: true
     order:
+      - Applied Learning Programme  UD/.keep
       - Self Directed Learners/Virtual Reality in the Classroom.md
       - Self Directed Learners/Orchid Hybridisation Programme (Biology).md
       - Self Directed Learners/.keep
