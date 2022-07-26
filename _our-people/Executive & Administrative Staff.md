@@ -3,12 +3,11 @@ title: Executive & Administrative Staff
 permalink: /our-people/Executive-and-Administrative-Staff/permalink
 description: ""
 ---
-
 Executive & Administrative Staff
 ================================
 
 | Name  | Designation  | Email Address  |
-|---|---|---|
+|---|---|:---:|
 | Mr Alan Wong | Administration Manager | wong_hong_wai@schools.gov.sg |
 | Mdm Bay Lee Hoon | Operations Manager | bay_lee_hoon@schools.gov.sg |
 | Mdm Winnie Chin | Administration Executive | chin_sio_yen@schools.gov.sg |
