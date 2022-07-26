@@ -2,4 +2,5 @@ collections:
   teaching-and-learning:
     output: true
     order:
+      - "C&C Problem Solvers/The History Times: Living in the Shadow of Wars.md"
       - C&C Problem Solvers/.keep
