@@ -4,6 +4,9 @@ permalink: /about-us/Latest-Happenings/A-Journey-Of-Discovery/permalink
 description: ""
 third_nav_title: Latest Happenings
 ---
+A Journey of Discovery!
+=======================
+
 The inaugural Discovery Week 2021 was carried out from 10 March to 12 March. The 3 days were filled with enthusiasm and excitement as students from Secondary One to Five engaged in the various learning experiences that were designed to build their character and social-emotional well-being.
 
 The design and enactment of these learning experiences were undergirded by 3 guiding principles – student-centricity, intentionality and coherence. Discovery Week 2021 aimed to enhance students’ quality of school experience, cultivate positive relationships and develop their social emotional competencies. 
