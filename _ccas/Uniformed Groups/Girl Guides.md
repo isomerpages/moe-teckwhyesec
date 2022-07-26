@@ -62,3 +62,110 @@ A Guide is self-disciplined in what she thinks, says and does
 ### Key Programmes and Activities
 
 #### Training
+
+|  Day(s) |  Time |
+|---|---|
+|  Wednesday | 3.15pm to 5.15pm |
+|  Friday (Odd Week) | 1.30pm to 5.00pm |
+
+#### **Training Activities**
+
+*   Patrol Leaders Training Course (PLTC)
+*   Singapore Anti-Narcotic Association (SANA) Course
+*   Civil Defence Course
+*   Youth Water Ambassador Workshop
+*   Pioneering Skills Course
+*   Homemaker Course
+*   Health Trooper Workshop
+*   Craft workshop
+
+**Activities that are conducted in Girl Guides include:**
+
+*   Girl Guides 5-point program (Personal Development, Home, Outdoor, Community and International)
+*   Proficiency Badges (such as Cook, Craft, Thrift, Local History, Health Trooper, etc)
+*   Camp Craft (Gadget Making, Tent Pitching, Outdoor-Cooking)
+*   Service to School  (APEX Day, Sec One Registration etc)
+*   Service to Community (Fei Yue Family Service Centre)
+*   Foot Drills
+*   Initiatives (learning something new such as balloon sculpting, sewing a plush toy, baking, etc)
+*   Camp Christine Campsite Cleaning
+*   Unit Bonding Activities
+*   Craft Activities (such as tie-dye, batik painting, friendship bracelets, etc)
+
+### Events / Highlights
+
+*   West Division Events (e.g. West Division Day, West Division Campfire, Skills Training)
+*   HQ Events (e.g. World Thinking Day, World Water Day)
+*   Annual Girl Guides Camp (School/ Camp Christine –alternate years)
+*   Inter-UG Activities (e.g. Total Defence Day Parade, Fancy Foot Drill competition,  
+    Inter-UG Games, Sec 1 Inter-UG Camp)
+*   Heritage Trail
+
+#### Competitions
+
+*   HQ Competitions (Thinking Day Pre-Event Competitions)
+*   West Division Competitions (West Division Day Competitions)
+*   Baden-Powell Award (highest award given out by the Chief Commissioner to a Girl Guide)
+
+### Representations and or Achievements
+
+**2019**
+
+**Puan Noor Aishah Award**
+
+*   Gold
+
+**2018**
+
+**Puan Noor Aishah Award**
+
+*   Gold
+
+**West Division Day Stamp Design Competition**
+
+*   Silver
+
+**2017**
+
+**Puan Noor Aishah Award**
+
+*   Gold
+
+**West Division Day Centennial Quiz**
+
+*   Silver
+
+**2016**
+
+**Puan Noor Aishah Award**
+
+*   Gold
+
+**Baden-Powell Award**
+
+*   Tan Wan Qing
+
+**2015**
+
+**Puan Noor Aishah Award**
+
+*   Gold
+
+**Thinking Day Competition**
+
+*   Bronze (Yarn Category)
+
+**West Division Day**
+
+*   Silver (Amazing Race)
+*   Silver (Let’s Get Crafty)
+*   Silver (Traditional Costume Parade)
+
+
+<img src="/images/gg1.jpg" style="width:75%"><br>
+<img src="/images/gg2.jpg" style="width:75%">
+
+<img src="/images/gg3.png" style="width:75%"><br>
+<img src="/images/gg4.png" style="width:75%">
+
+<p style="text-align: center;"><em><b>Weekly Training Sessions</b></em></p>
