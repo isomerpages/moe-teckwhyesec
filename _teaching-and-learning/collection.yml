@@ -2,6 +2,8 @@ collections:
   teaching-and-learning:
     output: true
     order:
+      - "Applied Learning Programme  UD/Science Applied Learning Programme:
+        Design & Research Space for Urban Farming.md"
       - Applied Learning Programme  UD/.keep
       - Self Directed Learners/Virtual Reality in the Classroom.md
       - Self Directed Learners/Orchid Hybridisation Programme (Biology).md
