@@ -140,3 +140,9 @@ Senior Cadets **(Secondary 2)**
 | 2018 | Certificate of Achievement : **LTA Kumaravel** |
 | 2018 | Outstanding Cadet Award : **MSG Ahmad Syahid Bin Sam** |
 
+
+<img src="/images/npc1.jpg" style="width:75%"><br>
+<img src="/images/npc2.jpg" style="width:75%"><br>
+<img src="/images/npc3.png" style="width:75%">
+
+<p style="text-align: center;"><em><b>Weekly Training Sessions</b></em></p>
