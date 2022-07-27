@@ -2,4 +2,5 @@ collections:
   resources-for-parents:
     output: true
     order:
+      - Bookshop and Uniform Supplier.md
       - Parenting Support Programmes.md
