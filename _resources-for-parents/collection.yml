@@ -2,6 +2,7 @@ collections:
   resources-for-parents:
     output: true
     order:
+      - Supporting Child's Learning/O Level Prelim Exam Schedule 2021.md
       - Supporting Child's Learning/N Level Prelim Exam Schedule 2022.md
       - Supporting Child's Learning/Weighted Assessment Schedule.md
       - Supporting Child's Learning/School Assessment Policy.md
