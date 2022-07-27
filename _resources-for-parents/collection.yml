@@ -2,6 +2,7 @@ collections:
   resources-for-parents:
     output: true
     order:
+      - Supporting Child's Learning/Weighted Assessment Schedule.md
       - Supporting Child's Learning/School Assessment Policy.md
       - Supporting Child's Learning/.keep
       - Sexuality Education Programme/Sexuality Education Programme.md
