@@ -2,5 +2,6 @@ collections:
   resources-for-parents:
     output: true
     order:
+      - Financial Assistance and Support Programmes.md
       - Bookshop and Uniform Supplier.md
       - Parenting Support Programmes.md
