@@ -2,6 +2,7 @@ collections:
   resources-for-students:
     output: true
     order:
+      - Acceptable Use Policy.md
       - Education and Career Guidance/Secondary Three Subject Options
         Information.md
       - Education and Career Guidance/Education and Career Guidance
