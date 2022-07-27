@@ -2,6 +2,7 @@ collections:
   resources-for-students:
     output: true
     order:
+      - Assessments & Exam Schedules/EOY Examination Schedule 2021.md
       - Assessments & Exam Schedules/O Level Prelim Exam Schedule 2021.md
       - Assessments & Exam Schedules/N Level Prelim Exam Schedule 2022.md
       - Assessments & Exam Schedules/Weighted Assessment Schedule.md
