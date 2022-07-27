@@ -14,9 +14,9 @@ Strategies you can try include:
 1\. Coping Strategies  
 2\. Seeking help from others
 
-*   [Seeking Support from School Counsellors](https://teckwhyesec.moe.edu.sg/seeking-support-from-school-counsellors/)
-*   [Helping your friends](https://teckwhyesec.moe.edu.sg/helping-your-friends/)
-*   [Other Helplines](https://teckwhyesec.moe.edu.sg/other-helplines/)
+*   [Seeking Support from School Counsellors](https://moe-teckwhyesec-staging.netlify.app/resources-for-students/student-support/seeking-support-from-school-counsellors/permalink)
+*   [Helping your friends](https://moe-teckwhyesec-staging.netlify.app/resources-for-students/student-support/helping-your-friends/permalink)
+*   [Other Helplines](https://moe-teckwhyesec-staging.netlify.app/resources-for-students/other-helplines/permalink)
 
 **Coping Strategies**:
 
