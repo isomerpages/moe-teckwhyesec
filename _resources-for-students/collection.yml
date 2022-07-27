@@ -2,6 +2,7 @@ collections:
   resources-for-students:
     output: true
     order:
+      - Assessments & Exam Schedules/Weighted Assessment Schedule.md
       - Assessments & Exam Schedules/School Assessment Policy.md
       - Assessments & Exam Schedules/.keep
       - Acceptable Use Policy.md
