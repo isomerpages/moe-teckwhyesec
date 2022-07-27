@@ -10,7 +10,7 @@ Acceptable Use Policy (AUP)
 
 Dear Student,
 
-Computing devices and access to the Internet have become a necessity for work, play and learning in the 21st century. As you navigate the digital space, you should do so in a safe and responsible manner. More information can be found in the “[Student Kit on Cyber Wellness and Learning with a Personal Learning Device](https://teckwhyesec.moe.edu.sg/wp-content/uploads/2021/05/Annex_2-4_Student_Kit_for_Cyber_Wellness_and_Learning_with_a-_Personal_Learning_Device.pdf)”.
+Computing devices and access to the Internet have become a necessity for work, play and learning in the 21st century. As you navigate the digital space, you should do so in a safe and responsible manner. More information can be found in the “[Student Kit on Cyber Wellness and Learning with a Personal Learning Device](https://teckwhyesec.moe.edu.sg/wp-content/uploads/2021/05/Annex_2-4_Student_Kit_for_Cyber_Wellness_and_Learning_with_a-_Personal_Learning_Device.pdf)”. 
 
 In addition, you are reminded to observe the guidelines stated in this Acceptable Use Policy (AUP) on the use of personal learning devices (PLDs) and the school’s ICT resources. ICT resources include the following, but are not limited to, MOE/school-deployed ICT system accounts, the device management application (DMA) and school’s internet network.
 
