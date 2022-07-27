@@ -12,7 +12,7 @@ The objective of the Financial Assistance Scheme (FAS) is to help needy Singapor
 
 The Ministry of Education provides financial assistance to needy Singapore Citizen students in Government or Government-Aided Schools. The income limits and type of assistance given to needy students are provided in the pamphlet and application form:
 
-[MOE FAS Pamphlet 2022](/files/MOE_FAS_Pamphlet_2022.pdf)
+[MOE FAS Pamphlet 2022](/files/MOE_FAS_Pamphlet_2022.pdf)<br>
 [MOE FAS Application form     ](/files/MOE-FAS-Application-Form-Sep-21.pdf) 
 
 Detailed information about household income requirements/financial assistance eligibility can be found at the [MOE Financial Assistance Page](https://www.moe.gov.sg/financial-matters/financial-assistance).
