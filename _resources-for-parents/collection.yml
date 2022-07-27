@@ -2,6 +2,8 @@ collections:
   resources-for-parents:
     output: true
     order:
+      - Supporting Child's Cyber Needs/Cyber Wellness – Tips and Resources for
+        Parents.md
       - Supporting Child's Cyber Needs/Communicating with the School.md
       - Supporting Child's Cyber Needs/.keep
       - Parent Support Group.md
