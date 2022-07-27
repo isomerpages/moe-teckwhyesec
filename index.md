@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Title
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -19,3 +19,4 @@ sections:
           description: Catch us on CNA!
           url: https://moe-teckwhyesec-staging.netlify.app/about-us/latest-happenings/cna-documentary/permalink
 ---
+
