@@ -20,5 +20,5 @@ sections:
           url: https://www.youtube.com/watch?v=ilI-nAh5dCM
         - title: CNA Documentary
           description: Catch us on CNA!
-          url: ""
+          url: https://moe-teckwhyesec-staging.netlify.app/about-us/latest-happenings/cna-documentary/permalink
 ---
