@@ -9,19 +9,11 @@ Weighted Assessment Schedule
 
 For **Term 3 Weighted Assessment 3 Schedules by Level,** please click on the relevant link below.
 
-**Sec 1 , 2 & 3**<br>
-**Schedule for Weighted Assessment (3)**
+| **Sec 1 , 2 & 3** | **Sec 4 & 5** |
+|:---:|:---:|
+| **Schedule for<br>Weighted Assessment (3)** | **Schedule for<br>Milestone Assessment (3)** |
+| [Secondary 1](/files/Sec-1-schedule_WA3.pdf) <br>[Secondary 2](/files/Sec-2-schedule_WA3.pdf)  <br>[Secondary 3](/files/Sec-3-schedule_WA3.pdf)     | [Secondary 4 and 5](/files/T3MA3_Sec-4_5.pdf)    |
 
-[Secondary 1](/files/Sec-1-schedule_WA3.pdf)
-
-[Secondary 2](/files/Sec-2-schedule_WA3.pdf)
-
-[Secondary 3](/files/Sec-3-schedule_WA3.pdf)
-
-**Sec 4 & 5**<br>
-**Schedule for Milestone Assessment (3)**
-
-[Secondary 4 and 5](/files/T3MA3_Sec-4_5.pdf)
 
 _* You will need an **Acrobat Reader** to view the schedule. If you do not have Adobe Reader, please click [**HERE**](http://get.adobe.com/uk/reader/) to download and install it._
 
