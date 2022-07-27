@@ -2,5 +2,6 @@ collections:
   resources-for-students:
     output: true
     order:
+      - Student Support/Helping your friends.md
       - Student Support/Other Helplines.md
       - Student Support/.keep
