@@ -2,6 +2,7 @@ collections:
   resources-for-parents:
     output: true
     order:
+      - Sexuality Education Programme/MOE Sexuality Education In Schools.md
       - Sexuality Education Programme/.keep
       - Supporting Child's Progression/Secondary Three Subject Options
         Information.md
