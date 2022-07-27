@@ -2,6 +2,8 @@ collections:
   resources-for-students:
     output: true
     order:
+      - Education and Career Guidance/Secondary Three Subject Options
+        Information.md
       - Education and Career Guidance/Education and Career Guidance
         Information.md
       - Education and Career Guidance/What’s Next After N & O Levels?.md
