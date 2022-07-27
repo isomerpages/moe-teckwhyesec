@@ -4,4 +4,11 @@ permalink: /resources-for-students/Student-Support/Seeking-Support-from-School-C
 description: ""
 third_nav_title: Student Support
 ---
+Seeking Support from School Counsellors
+=======================================
 
+**In case of Emergency**:
+
+If you or someone you know is in immediate harm, call 24-hour emergency medical services at 995 or approach your nearest hospital emergency department.
+
+<img src="/images/sc1.jpg" style="width:75%">
