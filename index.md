@@ -19,4 +19,3 @@ sections:
           description: Catch us on CNA!
           url: https://moe-teckwhyesec-staging.netlify.app/about-us/latest-happenings/cna-documentary/permalink
 ---
-
