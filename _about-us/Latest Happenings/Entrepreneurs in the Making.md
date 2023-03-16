@@ -1,6 +1,6 @@
 ---
 title: Entrepreneurs in the Making
-permalink: /about-us/Latest-Happenings/Entrepreneurs-in-the-Making/permalink
+permalink: /about-us/latest-happenings/entrepreneurs-in-the-making/permalink/
 description: ""
 third_nav_title: Latest Happenings
 ---

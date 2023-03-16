@@ -1,6 +1,6 @@
 ---
 title: Student Support
-permalink: /resources-for-students/Student-Support/permalink
+permalink: /resources-for-students/student-support/permalink/
 description: ""
 third_nav_title: Student Support
 ---

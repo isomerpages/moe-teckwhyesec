@@ -1,6 +1,6 @@
 ---
 title: School Assessment Policy
-permalink: /resources-for-parents/supporting-childs-learning/School-Assessment-Policy/permalink
+permalink: /resources-for-parents/supporting-childs-learning/school-assessment-policy/permalink/
 description: ""
 third_nav_title: Supporting Child's Learning
 ---

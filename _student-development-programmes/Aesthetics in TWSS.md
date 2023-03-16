@@ -1,6 +1,6 @@
 ---
 title: Aesthetics in TWSS
-permalink: /student-development-programmes/Aesthetics-in-TWSS/permalink
+permalink: /student-development-programmes/aesthetics-in-twss/permalink/
 description: ""
 ---
 Aesthetics in TWSS

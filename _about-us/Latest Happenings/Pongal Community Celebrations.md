@@ -1,6 +1,6 @@
 ---
 title: Pongal Community Celebrations
-permalink: /about-us/Latest-Happenings/Pongal-Community-Celebrations/permalink
+permalink: /about-us/latest-happenings/pongal-community-celebrations/permalink/
 description: ""
 third_nav_title: Latest Happenings
 ---

@@ -1,6 +1,6 @@
 ---
 title: O Level Prelim Exam Schedule 2021
-permalink: /resources-for-parents/supporting-childs-learning/O-Level-Prelim-Exam-Schedule-2021/permalink
+permalink: /resources-for-parents/supporting-childs-learning/o-level-prelim-exam-schedule-2021/permalink/
 description: ""
 third_nav_title: Supporting Child's Learning
 ---

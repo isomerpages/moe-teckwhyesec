@@ -1,6 +1,6 @@
 ---
 title: Education and Career Guidance Information
-permalink: /resources-for-parents/Education-and-Career-Guidance/Information/permalink
+permalink: /resources-for-parents/education-and-career-guidance/information/permalink/
 description: ""
 third_nav_title: Supporting Child's Progression
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Science Applied Learning Programme: Design & Research Space for Urban Farming"
-permalink: /about-us/Latest-Happenings/Science-Applied-Learning-Programme-Design-and-Research-Space/permalink
+permalink: /about-us/latest-happenings/science-applied-learning-programme-design-and-research-space/permalink/
 description: ""
 third_nav_title: Latest Happenings
 ---

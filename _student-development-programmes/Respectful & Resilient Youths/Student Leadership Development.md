@@ -1,6 +1,6 @@
 ---
 title: Student Leadership Development
-permalink: /student-development-programmes/R-and-R-Youths/Student-Leadership-Development/permalink
+permalink: /student-development-programmes/r-and-r-youths/student-leadership-development/permalink/
 description: ""
 third_nav_title: Respectful & Resilient Youths
 ---

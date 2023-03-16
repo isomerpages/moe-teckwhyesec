@@ -1,6 +1,6 @@
 ---
 title: Direct School Admissions
-permalink: /about-us/DSA/permalink
+permalink: /about-us/dsa/permalink/
 description: ""
 ---
 Information on 2022 Direct School Admission to Chua Chu Kang Secondary School, new merged school (merger of Chua Chu Kang Sec and Teck Whye Sec)

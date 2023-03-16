@@ -1,6 +1,6 @@
 ---
 title: Values in Action
-permalink: /student-development-programmes/Global-Citizens/VIA/permalink
+permalink: /student-development-programmes/global-citizens/via/permalink/
 description: ""
 third_nav_title: Global Citizens
 ---

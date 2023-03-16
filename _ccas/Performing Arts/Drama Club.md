@@ -1,6 +1,6 @@
 ---
 title: Drama Club
-permalink: /ccas/Performing-Arts/Drama-Club/permalink
+permalink: /ccas/performing-arts/drama-club/permalink/
 description: ""
 third_nav_title: Performing Arts
 ---

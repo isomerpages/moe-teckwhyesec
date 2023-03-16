@@ -1,6 +1,6 @@
 ---
 title: GCE O Level Results Release
-permalink: /resources-for-students/Education-and-Career-Guidance/GCE-O-Level-Results-Release/permalink
+permalink: /resources-for-students/education-and-career-guidance/gce-o-level-results-release/permalink/
 description: ""
 third_nav_title: Education and Career Guidance
 ---

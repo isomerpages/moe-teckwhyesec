@@ -1,5 +1,5 @@
 ---
 title: CCAs
-permalink: /ccas/Sports-and-Games/Archery/permalink
+permalink: /ccas/sports-and-games/archery/permalink/
 description: ""
 ---

@@ -1,6 +1,6 @@
 ---
 title: Other Helplines
-permalink: /resources-for-students/Other-Helplines/permalink
+permalink: /resources-for-students/other-helplines/permalink/
 description: ""
 third_nav_title: Student Support
 ---

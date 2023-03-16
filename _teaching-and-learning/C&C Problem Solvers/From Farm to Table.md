@@ -1,6 +1,6 @@
 ---
 title: From Farm to Table
-permalink: /teaching-and-learning/From-Farm-To-Table/permalink
+permalink: /teaching-and-learning/from-farm-to-table/permalink/
 description: ""
 third_nav_title: C&C Problem Solvers
 ---

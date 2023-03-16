@@ -1,6 +1,6 @@
 ---
 title: Celebrating Our Teachers
-permalink: /about-us/Latest-Happenings/Celebrating-Our-Teachers/permalink
+permalink: /about-us/latest-happenings/celebrating-our-teachers/permalink/
 description: ""
 third_nav_title: Latest Happenings
 ---

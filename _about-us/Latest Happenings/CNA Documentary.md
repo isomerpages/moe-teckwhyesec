@@ -1,6 +1,6 @@
 ---
 title: CNA Documentary
-permalink: /about-us/Latest-Happenings/CNA-Documentary/permalink
+permalink: /about-us/latest-happenings/cna-documentary/permalink/
 description: ""
 third_nav_title: Latest Happenings
 ---

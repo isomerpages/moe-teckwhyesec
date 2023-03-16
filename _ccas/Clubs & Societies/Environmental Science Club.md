@@ -1,6 +1,6 @@
 ---
 title: Environmental Science Club
-permalink: /ccas/Clubs-and-Societies/Environmental-Science-Club/permalink
+permalink: /ccas/clubs-and-societies/environmental-science-club/permalink/
 description: ""
 third_nav_title: Clubs & Societies
 ---

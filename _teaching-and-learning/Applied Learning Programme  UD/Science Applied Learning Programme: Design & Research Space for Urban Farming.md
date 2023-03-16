@@ -1,6 +1,6 @@
 ---
 title: "Science Applied Learning Programme: Design & Research Space for Urban Farming"
-permalink: /teaching-and-learning/Science-Applied-Learning-Programme-Design-and-Research-Space/permalink
+permalink: /teaching-and-learning/science-applied-learning-programme-design-and-research-space/permalink/
 description: ""
 third_nav_title: Applied Learning Programme  UD
 ---

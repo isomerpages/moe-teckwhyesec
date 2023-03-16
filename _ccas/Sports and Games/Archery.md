@@ -1,6 +1,6 @@
 ---
 title: Archery
-permalink: /ccas/Sports-and-Games/Archery/permalink
+permalink: /ccas/sports-and-games/archery/permalink/
 description: ""
 third_nav_title: Sports and Games
 ---

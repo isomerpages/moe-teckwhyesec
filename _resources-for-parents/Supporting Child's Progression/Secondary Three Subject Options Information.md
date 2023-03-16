@@ -1,6 +1,6 @@
 ---
 title: Secondary Three Subject Options Information
-permalink: /resources-for-parents/Education-and-Career-Guidance/Secondary-3-Subject-Options-Info/permalink
+permalink: /resources-for-parents/education-and-career-guidance/secondary-3-subject-options-info/permalink/
 description: ""
 third_nav_title: Supporting Child's Progression
 ---

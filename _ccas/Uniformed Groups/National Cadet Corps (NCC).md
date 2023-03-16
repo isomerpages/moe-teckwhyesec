@@ -1,6 +1,6 @@
 ---
 title: National Cadet Corps (NCC)
-permalink: /ccas/Uniformed-Groups/National-Cadet-Corps-NCC/permalink
+permalink: /ccas/uniformed-groups/national-cadet-corps-ncc/permalink/
 description: ""
 third_nav_title: Uniformed Groups
 ---

@@ -1,6 +1,6 @@
 ---
 title: What’s Next After N & O Levels?
-permalink: /resources-for-students/Education-and-Career-Guidance/Whats-Next-After-N-and-O-Levels/permalink
+permalink: /resources-for-students/education-and-career-guidance/whats-next-after-n-and-o-levels/permalink/
 description: ""
 third_nav_title: Education and Career Guidance
 ---

@@ -1,6 +1,6 @@
 ---
 title: N Level Prelim Exam Schedule 2022
-permalink: /resources-for-students/Assessments-and-Exam-Schedules/N-Level-Prelim-Exam-Schedule-2022/permalink
+permalink: /resources-for-students/assessments-and-exam-schedules/n-level-prelim-exam-schedule-2022/permalink/
 description: ""
 third_nav_title: Assessments & Exam Schedules
 ---

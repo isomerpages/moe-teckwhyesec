@@ -1,6 +1,6 @@
 ---
 title: Vision, Mission, Values and Motto
-permalink: /about-us/Vision-Mission-Values-and-Motto/permalink
+permalink: /about-us/vision-mission-values-and-motto/permalink/
 description: ""
 ---
 Vision, Mission, Values and Motto

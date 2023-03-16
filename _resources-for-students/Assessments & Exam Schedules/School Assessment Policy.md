@@ -1,6 +1,6 @@
 ---
 title: School Assessment Policy
-permalink: /resources-for-students/Assessments-and-Exam-Schedules/School-Assessment-Policy/permalink
+permalink: /resources-for-students/assessments-and-exam-schedules/school-assessment-policy/permalink/
 description: ""
 third_nav_title: Assessments & Exam Schedules
 ---

@@ -1,6 +1,6 @@
 ---
 title: Device Management Application (DMA) Information
-permalink: /resources-for-parents/Supporting-Childs-Cyber-Needs/Device-Management-Application-Info/permalink
+permalink: /resources-for-parents/supporting-childs-cyber-needs/device-management-application-info/permalink/
 description: ""
 third_nav_title: Supporting Child's Cyber Needs
 ---

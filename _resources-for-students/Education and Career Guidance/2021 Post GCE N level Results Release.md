@@ -1,6 +1,6 @@
 ---
 title: 2021 Post GCE N level Results Release
-permalink: /resources-for-students/ECG/2021-Post-GCE-N-level-Results-Release/permalink
+permalink: /resources-for-students/ecg/2021-post-gce-n-level-results-release/permalink/
 description: ""
 third_nav_title: Education and Career Guidance
 ---

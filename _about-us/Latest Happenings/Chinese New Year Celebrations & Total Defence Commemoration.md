@@ -1,6 +1,6 @@
 ---
 title: Chinese New Year Celebrations & Total Defence Commemoration
-permalink: /about-us/Latest-Happenings/Chinese-New-Year-Celebrations-and-Total-Defence-Commemoration/permalink
+permalink: /about-us/latest-happenings/chinese-new-year-celebrations-and-total-defence-commemoration/permalink/
 description: ""
 third_nav_title: Latest Happenings
 ---

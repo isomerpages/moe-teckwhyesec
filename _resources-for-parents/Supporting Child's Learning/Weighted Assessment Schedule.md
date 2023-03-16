@@ -1,6 +1,6 @@
 ---
 title: Weighted Assessment Schedule
-permalink: /resources-for-parents/supporting-childs-learning/Weighted-Assessment-Schedule/permalink
+permalink: /resources-for-parents/supporting-childs-learning/weighted-assessment-schedule/permalink/
 description: ""
 third_nav_title: Supporting Child's Learning
 ---

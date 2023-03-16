@@ -1,6 +1,6 @@
 ---
 title: School Assessment Policy
-permalink: /teaching-and-learning/School-Assessment-Policy/permalink
+permalink: /teaching-and-learning/school-assessment-policy/permalink/
 description: ""
 ---
 School Assessment Policy

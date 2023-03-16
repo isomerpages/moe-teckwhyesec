@@ -1,6 +1,6 @@
 ---
 title: Infocomm & Technology (Media Production) Club
-permalink: /ccas/Clubs-and-Societies/Infocomm-and-Technology-Media-Production-Club/permalink
+permalink: /ccas/clubs-and-societies/infocomm-and-technology-media-production-club/permalink/
 description: ""
 third_nav_title: Clubs & Societies
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wushu
-permalink: /ccas/Sports-and-Games/Wushu/permalink
+permalink: /ccas/sports-and-games/wushu/permalink/
 description: ""
 third_nav_title: Sports and Games
 ---

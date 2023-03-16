@@ -1,6 +1,6 @@
 ---
 title: Bookshop and Uniform Supplier
-permalink: /resources-for-parents/Bookshop-and-Uniform-Supplier/permalink
+permalink: /resources-for-parents/bookshop-and-uniform-supplier/permalink/
 description: ""
 ---
 Bookshop and Uniform Supplier

@@ -1,6 +1,6 @@
 ---
 title: Cool Building Project
-permalink: /teaching-and-learning/Cool-Building-Project/permalink
+permalink: /teaching-and-learning/cool-building-project/permalink/
 description: ""
 third_nav_title: C&C Problem Solvers
 ---

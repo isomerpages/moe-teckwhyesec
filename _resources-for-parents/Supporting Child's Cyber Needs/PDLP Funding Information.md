@@ -1,6 +1,6 @@
 ---
 title: PDLP Funding Information
-permalink: /resources-for-parents/Supporting-Childs-Cyber-Needs/PDLP-Funding-Information/permalink
+permalink: /resources-for-parents/supporting-childs-cyber-needs/pdlp-funding-information/permalink/
 description: ""
 third_nav_title: Supporting Child's Cyber Needs
 ---

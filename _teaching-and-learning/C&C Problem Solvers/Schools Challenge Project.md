@@ -1,6 +1,6 @@
 ---
 title: Schools Challenge Project
-permalink: /teaching-and-learning/Schools-Challenge-Project/permalink
+permalink: /teaching-and-learning/schools-challenge-project/permalink/
 description: ""
 third_nav_title: C&C Problem Solvers
 ---

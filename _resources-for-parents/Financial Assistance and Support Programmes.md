@@ -1,6 +1,6 @@
 ---
 title: Financial Assistance and Support Programmes
-permalink: /resources-for-parents/Financial-Assistance-and-Support-Programmes/permalink
+permalink: /resources-for-parents/financial-assistance-and-support-programmes/permalink/
 description: ""
 ---
 Financial Assistance and Support Programmes

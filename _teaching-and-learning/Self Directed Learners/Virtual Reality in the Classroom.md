@@ -1,6 +1,6 @@
 ---
 title: Virtual Reality in the Classroom
-permalink: /teaching-and-learning/Self-Directed-Learners/Virtual-Reality-in-the-Classroom/permalink
+permalink: /teaching-and-learning/self-directed-learners/virtual-reality-in-the-classroom/permalink/
 description: ""
 third_nav_title: Self Directed Learners
 ---

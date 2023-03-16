@@ -1,6 +1,6 @@
 ---
 title: Overseas Learning Experience
-permalink: /student-development-programmes/Global-Citizens/OLE/permalink
+permalink: /student-development-programmes/global-citizens/ole/permalink/
 description: ""
 third_nav_title: Global Citizens
 ---

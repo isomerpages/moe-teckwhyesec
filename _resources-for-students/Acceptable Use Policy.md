@@ -1,6 +1,6 @@
 ---
 title: Acceptable Use Policy
-permalink: /resources-for-students/Acceptable-Use-Policy/permalink
+permalink: /resources-for-students/acceptable-use-policy/permalink/
 description: ""
 ---
 Acceptable Use Policy (AUP)

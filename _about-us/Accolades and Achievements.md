@@ -1,6 +1,6 @@
 ---
 title: Accolades and Achievements
-permalink: /about-us/Accolades-and-Achievements/permalink
+permalink: /about-us/accolades-and-achievements/permalink/
 description: ""
 ---
 Accolades & Achievements

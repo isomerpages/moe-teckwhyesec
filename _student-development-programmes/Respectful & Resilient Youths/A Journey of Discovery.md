@@ -1,6 +1,6 @@
 ---
 title: A Journey of Discovery
-permalink: /student-development-programmes/R-and-R-Youths/A-Journey-of-Discovery/permalink
+permalink: /student-development-programmes/r-and-r-youths/a-journey-of-discovery/permalink/
 description: ""
 third_nav_title: Respectful & Resilient Youths
 ---

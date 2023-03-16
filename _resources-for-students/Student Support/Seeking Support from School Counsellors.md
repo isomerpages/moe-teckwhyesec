@@ -1,6 +1,6 @@
 ---
 title: Seeking Support from School Counsellors
-permalink: /resources-for-students/Student-Support/Seeking-Support-from-School-Counsellors/permalink
+permalink: /resources-for-students/student-support/seeking-support-from-school-counsellors/permalink/
 description: ""
 third_nav_title: Student Support
 ---

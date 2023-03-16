@@ -1,6 +1,6 @@
 ---
 title: Together Our Singapore Spirit
-permalink: /about-us/Latest-Happenings/Together-Our-Singapore-Spirit/permalink
+permalink: /about-us/latest-happenings/together-our-singapore-spirit/permalink/
 description: ""
 third_nav_title: Latest Happenings
 ---

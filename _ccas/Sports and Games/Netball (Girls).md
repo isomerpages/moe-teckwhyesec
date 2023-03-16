@@ -1,6 +1,6 @@
 ---
 title: Netball (Girls)
-permalink: /ccas/Sports-and-Games/Netball-Girls/permalink
+permalink: /ccas/sports-and-games/netball-girls/permalink/
 description: ""
 third_nav_title: Sports and Games
 ---

@@ -1,6 +1,6 @@
 ---
 title: EOY Examination Schedule 2021
-permalink: /resources-for-parents/supporting-childs-learning/EOY-Examination-Schedule-2021/permalink
+permalink: /resources-for-parents/supporting-childs-learning/eoy-examination-schedule-2021/permalink/
 description: ""
 third_nav_title: Supporting Child's Learning
 ---

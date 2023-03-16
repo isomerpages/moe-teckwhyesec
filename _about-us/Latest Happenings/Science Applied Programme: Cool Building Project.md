@@ -1,6 +1,6 @@
 ---
 title: "Science Applied Programme: Cool Building Project"
-permalink: /about-us/Latest-Happenings/Science-Applied-Programme-Cool-Building-Project/permalink
+permalink: /about-us/latest-happenings/science-applied-programme-cool-building-project/permalink/
 description: ""
 third_nav_title: Latest Happenings
 ---

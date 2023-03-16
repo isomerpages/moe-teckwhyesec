@@ -1,6 +1,6 @@
 ---
 title: Orchid Hybridisation Programme (Biology)
-permalink: /teaching-and-learning/Self-Directed-Learners/Orchid-Hybridisation-Programme-Biology/permalink
+permalink: /teaching-and-learning/self-directed-learners/orchid-hybridisation-programme-biology/permalink/
 description: ""
 third_nav_title: Self Directed Learners
 ---

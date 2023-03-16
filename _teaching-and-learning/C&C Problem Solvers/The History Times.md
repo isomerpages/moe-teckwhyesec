@@ -1,6 +1,6 @@
 ---
 title: The History Times
-permalink: /teaching-and-learning/The-History-Times/permalink
+permalink: /teaching-and-learning/the-history-times/permalink/
 description: ""
 third_nav_title: C&C Problem Solvers
 ---

@@ -1,6 +1,6 @@
 ---
 title: Helping your friends
-permalink: /resources-for-students/Student-Support/Helping-your-friends/permalink
+permalink: /resources-for-students/student-support/helping-your-friends/permalink/
 description: ""
 third_nav_title: Student Support
 ---

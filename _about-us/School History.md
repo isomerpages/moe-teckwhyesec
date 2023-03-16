@@ -1,6 +1,6 @@
 ---
 title: School History
-permalink: /about-us/School-History/permalink
+permalink: /about-us/school-history/permalink/
 description: ""
 ---
 School History

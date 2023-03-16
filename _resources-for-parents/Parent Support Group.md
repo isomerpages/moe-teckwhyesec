@@ -1,6 +1,6 @@
 ---
 title: Parent Support Group
-permalink: /resources-for-parents/Parent-Support-Group/permalink
+permalink: /resources-for-parents/parent-support-group/permalink/
 description: ""
 ---
 Parent Support Group

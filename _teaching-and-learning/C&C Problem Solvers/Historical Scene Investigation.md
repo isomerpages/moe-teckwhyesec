@@ -1,6 +1,6 @@
 ---
 title: Historical Scene Investigation
-permalink: /teaching-and-learning/Historical-Scene-Investigation/permalink
+permalink: /teaching-and-learning/historical-scene-investigation/permalink/
 description: ""
 third_nav_title: C&C Problem Solvers
 ---

@@ -1,6 +1,6 @@
 ---
 title: Class Timetable
-permalink: /resources-for-students/Class-Timetable/permalink
+permalink: /resources-for-students/class-timetable/permalink/
 description: ""
 ---
 Class Timetable

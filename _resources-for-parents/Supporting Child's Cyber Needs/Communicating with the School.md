@@ -1,6 +1,6 @@
 ---
 title: Communicating with the School
-permalink: /resources-for-parents/Supporting-Childs-Cyber-Needs/Communicating-with-the-School/permalink
+permalink: /resources-for-parents/supporting-childs-cyber-needs/communicating-with-the-school/permalink/
 description: ""
 third_nav_title: Supporting Child's Cyber Needs
 ---

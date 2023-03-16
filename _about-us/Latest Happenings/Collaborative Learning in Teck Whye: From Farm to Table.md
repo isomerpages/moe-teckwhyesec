@@ -1,6 +1,6 @@
 ---
 title: "Collaborative Learning in Teck Whye: From Farm to Table"
-permalink: /about-us/Latest-Happenings/Collaborative-Learning-in-Teck-Whye/permalink
+permalink: /about-us/latest-happenings/collaborative-learning-in-teck-whye/permalink/
 description: ""
 third_nav_title: Latest Happenings
 ---

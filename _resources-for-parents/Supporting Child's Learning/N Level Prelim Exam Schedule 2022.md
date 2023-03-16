@@ -1,6 +1,6 @@
 ---
 title: N Level Prelim Exam Schedule 2022
-permalink: /resources-for-parents/supporting-childs-learning/N-Level-Prelim-Exam-Schedule-2022/permalink
+permalink: /resources-for-parents/supporting-childs-learning/n-level-prelim-exam-schedule-2022/permalink/
 description: ""
 third_nav_title: Supporting Child's Learning
 ---

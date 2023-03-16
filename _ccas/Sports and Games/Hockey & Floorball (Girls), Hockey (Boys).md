@@ -1,6 +1,6 @@
 ---
 title: Hockey & Floorball (Girls), Hockey (Boys)
-permalink: /ccas/Sports-and-Games/Hockey-Floorball-Girls-Hockey-Boys/permalink
+permalink: /ccas/sports-and-games/hockey-floorball-girls-hockey-boys/permalink/
 description: ""
 third_nav_title: Sports and Games
 ---

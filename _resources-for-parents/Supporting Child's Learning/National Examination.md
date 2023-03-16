@@ -1,6 +1,6 @@
 ---
 title: National Examination
-permalink: /resources-for-parents/supporting-childs-learning/National-Examination/permalink
+permalink: /resources-for-parents/supporting-childs-learning/national-examination/permalink/
 description: ""
 third_nav_title: Supporting Child's Learning
 ---

@@ -1,6 +1,6 @@
 ---
 title: IGNITE Skills Challenge
-permalink: /teaching-and-learning/IGNITE-Skills-Challenge/permalink
+permalink: /teaching-and-learning/ignite-skills-challenge/permalink/
 description: ""
 third_nav_title: C&C Problem Solvers
 ---

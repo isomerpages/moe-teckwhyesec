@@ -1,6 +1,6 @@
 ---
 title: Education and Career Guidance Information
-permalink: /resources-for-students/Education-and-Career-Guidance/Information/permalink
+permalink: /resources-for-students/education-and-career-guidance/information/permalink/
 description: ""
 third_nav_title: Education and Career Guidance
 ---
