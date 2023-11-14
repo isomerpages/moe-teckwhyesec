@@ -1,0 +1,14 @@
+collections:
+  student-development-programmes:
+    output: true
+    order:
+      - Respectful & Resilient Youths/Learning for Life Programme (LLP).md
+      - Respectful & Resilient Youths/A Journey of Discovery.md
+      - Respectful & Resilient Youths/Student Leadership Development.md
+      - Respectful & Resilient Youths/.keep
+      - Direct School Admissions (DSA).md
+      - Global Citizens/Overseas Learning Experience.md
+      - Global Citizens/Values in Action.md
+      - Global Citizens/.keep
+      - Aesthetics in TWSS.md
+      - CCAs.md

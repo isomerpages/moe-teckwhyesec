@@ -1,0 +1,92 @@
+logo: /images/schlogo teck.jpg
+links:
+  - title: About Us
+    url: /about-us/principals-message/permalink
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message/permalink
+      - title: Vision Mission Values & Motto
+        url: /About-us/Vision-Mission-Values-and-Motto/permalink
+      - title: School Crest
+        url: /About-us/School-Crest/permalink
+      - title: School Song
+        url: /About-us/School-Song/permalink
+      - title: "School History "
+        url: /About-us/School-History/permalink
+      - title: Direct School Admissions (DSA)
+        url: /About-Us/DSA/permalink
+      - title: Accolades & Achievements
+        url: /About-Us/Accolades-and-Achievements/permalink
+      - title: Latest Happenings
+        url: /about-us/latest-happenings/pongal-community-celebrations/permalink
+      - title: Yearbook
+        url: /About-Us/Yearbook-2021/permalink
+  - title: Our People
+    url: /Our-People/School-Advisory-Committee/permalink
+    sublinks:
+      - title: School Advisory Committee
+        url: /Our-People/School-Advisory-Committee/permalink
+      - title: School Management Committee
+        url: /Our-People/School-Management-Committee/permalink
+      - title: Executive & Admin Staff
+        url: /our-people/executive-and-admin-staff/permalink
+      - title: Form Teachers
+        url: /Our-People/Form-Teachers/permalink
+      - title: Staff Achievements
+        url: /Our-People/Staff-Achievements/permalink
+  - title: Teaching & Learning
+    url: /Teaching-and-Learning/School-Assessment-Policy/permalink
+    sublinks:
+      - title: School Assessment Policy
+        url: /Teaching-and-Learning/School-Assessment-Policy/permalink
+      - title: Applied Learning Programme -UD
+        url: /teaching-and-learning/applied-learning-programme-ud/permalink
+      - title: Self-Directed Learners
+        url: /teaching-and-learning/self-directed-learners/virtual-reality-in-the-classroom/permalink
+      - title: C&C Problem Solvers
+        url: /teaching-and-learning/schools-challenge-project/permalink
+  - title: Student Dev Prog
+    url: /Student-Development-Programmes/DSA/permalink
+    sublinks:
+      - title: Direct School Admissions (DSA)
+        url: /Student-Development-Programmes/DSA/permalink
+      - title: Respectful & Resilient Youths
+        url: /student-development-programmes/r-and-r-youths/llp/permalink
+      - title: Global Citizens
+        url: /student-development-programmes/global-citizens/ole/permalink
+      - title: Aesthetics in TWSS
+        url: /Student-Development-Programmes/Aesthetics-in-TWSS/permalink
+      - title: CCAs
+        url: /ccas/sports-and-games/archery/permalink
+  - title: Resources for Students
+    url: /resources-for-students/class-timetable/permalink
+    sublinks:
+      - title: Class Timetable
+        url: /Resources-for-Students/Class-Timetable/permalink
+      - title: Assessments & Exam Schedules
+        url: /resources-for-students/assessments-and-exam-schedules/national-examination/permalink
+      - title: Acceptable Use Policy
+        url: /Resources-for-Students/Acceptable-Use-Policy/permalink
+      - title: Education and Career Guidance
+        url: /resources-for-students/education-and-career-guidance/secondary-3-subject-options-info/permalink
+      - title: Student Support
+        url: /Resources-for-Students/Student-Support/permalink
+  - title: Resources for Parents
+    url: /Resources-for-parents/Supporting-your-child/permalink
+    sublinks:
+      - title: Supporting Child's Learning
+        url: /resources-for-parents/supporting-childs-learning/national-examination/permalink
+      - title: Sexuality Education Programme
+        url: /Resources-for-Parents/Sexuality-Education-Programme/permalink
+      - title: Supporting Child's Progression
+        url: /resources-for-parents/education-and-career-guidance/secondary-3-subject-options-info/permalink
+      - title: Supporting Child's Cyber Needs
+        url: /resources-for-parents/supporting-childs-cyber-needs/pdlp-funding-information/permalink
+      - title: Parent Support Group
+        url: /resources-for-parents/parent-support-group/permalink
+      - title: Financial Assist & Supt Prog
+        url: /resources-for-parents/financial-assistance-and-support-programmes/permalink
+      - title: Bookshop and Uniform Supplier
+        url: /resources-for-parents/bookshop-and-uniform-supplier/permalink
+      - title: Parenting Support Programmes
+        url: /resources-for-parents/parenting-support-programmes/permalink

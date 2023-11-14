@@ -1,0 +1,20 @@
+collections:
+  teaching-and-learning:
+    output: true
+    order:
+      - School Assessment Policy.md
+      - Applied Learning Programme  UD/Applied Learning Programme – Urban
+        Design.md
+      - "Applied Learning Programme  UD/Science Applied Learning Programme:
+        Design & Research Space for Urban Farming.md"
+      - Applied Learning Programme  UD/.keep
+      - Self Directed Learners/Virtual Reality in the Classroom.md
+      - Self Directed Learners/Orchid Hybridisation Programme (Biology).md
+      - Self Directed Learners/.keep
+      - C&C Problem Solvers/Schools Challenge Project.md
+      - C&C Problem Solvers/Historical Scene Investigation.md
+      - C&C Problem Solvers/IGNITE Skills Challenge.md
+      - C&C Problem Solvers/Cool Building Project.md
+      - C&C Problem Solvers/From Farm to Table.md
+      - C&C Problem Solvers/The History Times.md
+      - C&C Problem Solvers/.keep

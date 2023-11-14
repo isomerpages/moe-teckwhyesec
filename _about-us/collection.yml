@@ -1,0 +1,31 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal’s Message.md
+      - Vision, Mission, Values and Motto.md
+      - School Crest.md
+      - School Song.md
+      - School History.md
+      - Direct School Admissions.md
+      - Accolades and Achievements.md
+      - Latest Happenings/Pongal Community Celebrations.md
+      - Latest Happenings/Chinese New Year Celebrations & Total Defence
+        Commemoration.md
+      - Latest Happenings/Mother Tongue Language Fortnight.md
+      - Latest Happenings/Steering Your Success.md
+      - "Latest Happenings/Science Applied Programme: Cool Building Project.md"
+      - "Latest Happenings/Science Applied Learning Programme: Design & Research
+        Space for Urban Farming.md"
+      - "Latest Happenings/Collaborative Learning in Teck Whye: From Farm to
+        Table.md"
+      - Latest Happenings/CNA Documentary.md
+      - Latest Happenings/A Journey of Discovery!.md
+      - Latest Happenings/Together Our Singapore Spirit.md
+      - Latest Happenings/Making A Difference, One Seed At A Time.md
+      - Latest Happenings/Entrepreneurs in the Making.md
+      - Latest Happenings/Celebrating Our Teachers.md
+      - Latest Happenings/.keep
+      - Yearbook/Yearbook 2020.md
+      - Yearbook/Yearbook 2021.md
+      - Yearbook/.keep

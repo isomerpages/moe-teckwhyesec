@@ -1,0 +1,30 @@
+collections:
+  resources-for-parents:
+    output: true
+    order:
+      - Supporting Child's Learning/National Examination.md
+      - Supporting Child's Learning/EOY Examination Schedule 2021.md
+      - Supporting Child's Learning/O Level Prelim Exam Schedule 2021.md
+      - Supporting Child's Learning/N Level Prelim Exam Schedule 2022.md
+      - Supporting Child's Learning/Weighted Assessment Schedule.md
+      - Supporting Child's Learning/School Assessment Policy.md
+      - Supporting Child's Learning/.keep
+      - Sexuality Education Programme/Sexuality Education Programme.md
+      - Sexuality Education Programme/MOE Sexuality Education In Schools.md
+      - Sexuality Education Programme/.keep
+      - Supporting Child's Progression/Secondary Three Subject Options
+        Information.md
+      - Supporting Child's Progression/Education and Career Guidance
+        Information.md
+      - Supporting Child's Progression/.keep
+      - Supporting Child's Cyber Needs/PDLP Funding Information.md
+      - Supporting Child's Cyber Needs/Device Management Application (DMA)
+        Information.md
+      - Supporting Child's Cyber Needs/Cyber Wellness – Tips and Resources for
+        Parents.md
+      - Supporting Child's Cyber Needs/Communicating with the School.md
+      - Supporting Child's Cyber Needs/.keep
+      - Parent Support Group.md
+      - Financial Assistance and Support Programmes.md
+      - Bookshop and Uniform Supplier.md
+      - Parenting Support Programmes.md

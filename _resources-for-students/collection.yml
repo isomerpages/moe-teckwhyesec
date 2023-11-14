@@ -1,0 +1,26 @@
+collections:
+  resources-for-students:
+    output: true
+    order:
+      - Class Timetable.md
+      - Assessments & Exam Schedules/National Examination.md
+      - Assessments & Exam Schedules/EOY Examination Schedule 2021.md
+      - Assessments & Exam Schedules/O Level Prelim Exam Schedule 2021.md
+      - Assessments & Exam Schedules/N Level Prelim Exam Schedule 2022.md
+      - Assessments & Exam Schedules/Weighted Assessment Schedule.md
+      - Assessments & Exam Schedules/School Assessment Policy.md
+      - Assessments & Exam Schedules/.keep
+      - Acceptable Use Policy.md
+      - Education and Career Guidance/Secondary Three Subject Options
+        Information.md
+      - Education and Career Guidance/Education and Career Guidance
+        Information.md
+      - Education and Career Guidance/What’s Next After N & O Levels?.md
+      - Education and Career Guidance/2021 Post GCE N level Results Release.md
+      - Education and Career Guidance/GCE O Level Results Release.md
+      - Education and Career Guidance/.keep
+      - Student Support/Student Support.md
+      - Student Support/Seeking Support from School Counsellors.md
+      - Student Support/Helping your friends.md
+      - Student Support/Other Helplines.md
+      - Student Support/.keep
